@@ -15,3 +15,7 @@ Deseja-se ainda informatizar a receita do médico, de maneira que, no encerramen
 
 ![image](https://github.com/anacletorenan/hospital/assets/160495498/c8b96328-7544-44c7-8d48-0abd5b66a7a4)
 
+# Diagrama ER
+
+
+![image](https://github.com/anacletorenan/hospital/assets/160495498/684f71f8-c7d8-4320-b789-ae2d29989264)
